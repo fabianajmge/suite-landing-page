@@ -4,8 +4,6 @@
 
 ## Welcome! 👋
 
-## Welcome! 👋
-
 Thanks for checking out this front-end coding challenge.
 
 [Versão disponível](https://fabianajmge.github.io/suite-landing-page/)
