@@ -4,6 +4,8 @@
 
 ## Welcome! 👋
 
-Thanks for purchasing this premium Frontend Mentor coding challenge.
+## Welcome! 👋
 
-[Versão disponível]([https://www.frontendmentor.io](https://fabianajmge.github.io/suite-landing-page/)https://fabianajmge.github.io/suite-landing-page/]) 
+Thanks for checking out this front-end coding challenge.
+
+[Versão disponível](https://fabianajmge.github.io/suite-landing-page/)
