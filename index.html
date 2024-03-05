@@ -27,13 +27,14 @@
   <main>
     <section class="first-section">
       <div class="main">
-        <div>
-          <img class="img-curve" src="assets/pattern-curved-line-1.svg">
-          <img class="img-cellphone" src="assets/image-hero-portrait.png">
-          <img class="mobile" src="assets/image-hero-landscape.png">
+        <div style="margin-top: 3em;" class="pic-img">
+          <picture>
+            <source media="(max-width: 376px)" srcset="assets/image-hero-landscape.png" type="image/png">
+            <img src="assets/image-hero-portrait.png">
+          </picture>
         </div>
         <div>
-          <h1>A <span>super solution</span> for your <span>business.</span></h1>
+          <h1>A <span>super solution</span> for your <span class="business">business.</span></h1>
   
         <div class="div-detail grey">
           <p class="detail">Our marketing and sales automations help you scale your outreach to
@@ -64,11 +65,12 @@
     </section>
   
     <section class="second-section">
-      <img class="icon" src="assets/pattern-curved-line-2.svg" alt="Icon">
       <div class="div-second-section">
         <div class="div-img">
-          <img class="img-man" src="assets/image-jeremy-large.webp" alt="Man with cellphone in your hands">
-          <img class="mobile-man" src="assets/image-jeremy-small.webp" alt="Man with cellphone in your hands">
+          <picture>
+            <source media="(max-width: 375px)" srcset="assets/image-jeremy-small.webp" type="image/webp">
+            <img src="assets/image-jeremy-large.webp" alt="Man with cellphone in your hands">
+          </picture>
         </div>
         <div class="text-cmo">
           <h2>It just <span>works.</span></h2>
