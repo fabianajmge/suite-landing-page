@@ -56,7 +56,7 @@ h1 {
     &::before {
         width: 50%;
         content: " ";
-        background-image: url(/assets/Path_2.png);
+        background-image: url(assets/Path_2.png);
         position: absolute;
         left: 170px;
         top: 18%;
@@ -126,7 +126,7 @@ h2 {
 h2::before {
     width: 100px;
     content: " ";
-    background-image: url(/assets/pattern-curved-line-2.svg);
+    background-image: url(assets/pattern-curved-line-2.svg);
     position: absolute;
     background-repeat: no-repeat;
     left: 35%;
