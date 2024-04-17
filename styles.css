@@ -199,7 +199,7 @@ footer {
     }
 
     .rating {
-        display: grid;
+        display: grid !important;
     }
 
     .main {
@@ -212,6 +212,25 @@ footer {
 
     h1::before {
         left: 200px;
+    }
+
+    .div-second-section {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .div-img {
+        top: -50px !important;
+    }
+
+    .text-cmo {
+        margin-top: 3em;
+        width: 50%;
+    }
+
+    .fundo {
+        margin-top: -370px !important;
+        height: 315px !important;
     }
 }
 
